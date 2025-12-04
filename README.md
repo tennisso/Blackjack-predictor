@@ -13,5 +13,4 @@ Goal 2: Predict the outcome of each hand using machine learning models (decision
 Goal 3: Evaluate model performance </br>
 We analyze 900,000 Blackjack hands to identify key factors influencing outcomes. Through visualization and machine learning, we reveal data-driven insights into game dynamics and prediction accuracy. </br>
 
-Explain how it is possible to take the code and replicate the same analysis that the authors have done </br>
-
+**Explaination for replicateing our analysis, with our code:** </br>
