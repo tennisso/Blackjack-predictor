@@ -7,7 +7,7 @@ Hugo Tristan Tammik </br>
 Thomas Tennisson </br>
 
 Kaggle dataset (61.77 MB): Public dataset containing 900,000 recorded Blackjack hands with details about player and dealer cards, bets, and results. (Link: https://www.kaggle.com/datasets/mojocolors/900000-hands-of-blackjack-results ) </br>
-Motivation: </br>
+Motivation: Our motivation is to explore how data-driven methods can reveal meaningful patterns in blackjack outcomes. By analyzing a large real-world dataset, we aim to apply and strengthen the data-mining skills learned in the IDS2025 course. </br>
 Goal 1: Discover frequent patterns in winning and losing hands. </br>
 Goal 2: Predict the outcome of each hand using machine learning models (decision tree, k-NN, random forest) </br>
 Goal 3: Evaluate model performance </br>
