@@ -82,7 +82,6 @@ Includes strategic blackjack features such as:
 - dealer strength category
 - player risk zone
 - advantage metric
-These features significantly improved model performance.
 
 ### ▶️ **Step 4 - Machine Learning Models**
 Models built:
