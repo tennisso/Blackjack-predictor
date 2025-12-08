@@ -17,13 +17,10 @@ Our motivation is to explore how data-driven methods can reveal meaningful patte
 ## 🎯 Project Goals
 
 ### **Goal 1 — Discover frequent patterns**  
-Identify patterns such as:
-- Which starting totals lead to the highest win rates?
-- How do soft hands compare to hard hands?
-- How do player totals interact with dealer upcards?
+Discover frequent patterns in winning and losing hands.
 
 ### **Goal 2 — Build predictive models**  
-Train several ML models to predict *win vs. loss*:
+Train several ML models to predict *win vs. loss* by analyzing pre-decision features:
 - Decision Tree  
 - k-Nearest Neighbours  
 - Random Forest  
