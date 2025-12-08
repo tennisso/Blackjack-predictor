@@ -39,10 +39,11 @@ Compare models by:
 ```markdown
 Blackjack-predictor/
 ├── 📁 .ipynb_checkpoints    # Folder for notebook checkpoints
+├── 📄 E4.pdf                # Our project poster
 ├── 📄 E4_report.pdf         # Project report
 ├── 📄 Kood.ipynb            # Our initial Python notebook.
 ├── 📄 KoodV2.ipynb          # Python notebook, which contains the final version of our code.      
-├── 📄 README.md             # Information about the project         
+├── 📄 README.md             # Information about the project
 └── 📁 data.zip              # Our dataset
 ```
 
@@ -98,5 +99,5 @@ We evaluate using:
 
 ## 📊 Key Findings
 - The player's starting total and dealer's upcard are the strongest predictors of outcome.
-- Engineered features (dealer strength, advantage metric) improveed all models.
 - Random Forest and LightGBM achieved the highest accuracy.
+- The advantage metric (player_total − dealer_upcard) was one of the top predictors.
