@@ -41,12 +41,12 @@ Compare models by:
 
 ```markdown
 Blackjack-predictor/
-├── 🗂️ .ipynb_checkpoints    # Folder for notebook checkpoints
+├── 📁 .ipynb_checkpoints    # Folder for notebook checkpoints
 ├── 📄 E4_report.pdf         # Project report
 ├── 📄 Kood.ipynb            # Our initial Python notebook.
 ├── 📄 KoodV2.ipynb          # Python notebook, which contains the final version of our code.      
 ├── 📄 README.md             # Information about the project         
-└── 📄 data.zip              # Our dataset
+└── 📁 data.zip              # Our dataset
 ```
 
 ## 🔁 How to Replicate Our Analysis
