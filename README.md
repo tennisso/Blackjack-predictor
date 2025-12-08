@@ -104,4 +104,3 @@ We evaluate using:
 - The player's starting total and dealer's upcard are the strongest predictors of outcome.
 - Engineered features (dealer strength, advantage metric) improveed all models.
 - Random Forest and LightGBM achieved the highest accuracy.
-- Hard hands win more often overall
